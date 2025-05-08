@@ -6,10 +6,10 @@ export const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: theme.COLORS.GRAY_600,
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
     },
     text:{
         color: theme.COLORS.WHITE,
         fontSize: 32
-    }
+    },
 })
